@@ -34,7 +34,7 @@ namespace fil_i_O
             
             }
 
-            rajat
+            rajat gito
             //    using (var sr1 = File.OpenText(path1))
             //    {
             //      string s1;
